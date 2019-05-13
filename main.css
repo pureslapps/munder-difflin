@@ -1,3 +1,7 @@
+.main-logo {
+  height: 50px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -56,7 +60,7 @@ li.products {
 }
 
 .main-header {
-  background-image: url(https://cdn10.bigcommerce.com/s-du2hy/products/237/images/471/Peter-James-Photo-Gallery-Mystical-Forest__45548.1448852657.861.575.jpg?c=2);
+  background-image: url(https://i.ytimg.com/vi/rdGhwe1Q6LY/maxresdefault.jpg);
   background-size: cover;
   background-position: 80% 80%;
   height: 80vh;
@@ -64,6 +68,27 @@ li.products {
 
 .main-title {
   text-align: center;
-  color: white;
+  color: rgb(107, 105, 120);
   position: relative;
+  margin-left: -90%;
+  font-family: 'Cambria';
+  font-size: 5em;
+  font-style: italic;
+}
+
+.main-intro{
+  font-size: 6.5em;
+  color:rgb(255, 255, 255);
+  margin-top: -7%;
+  color: rgb(100, 12, 209);
+  font-family: "Cambria";
+  font-style: italic;
+  text-align: left;
+}
+
+.main-img {
+  height: 50px;
+  width: 50px;
+  margin-left: 80%;
+  margin-top: -300%;
 }
